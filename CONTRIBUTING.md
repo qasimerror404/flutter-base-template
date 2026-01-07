@@ -6,14 +6,14 @@ First off, thank you for considering contributing to Flutter Core Template! It's
 
 ### 1. 🐛 Report Bugs
 Found a bug? Help us fix it!
-- Use the [issue tracker](https://github.com/yourusername/flutter_core/issues)
+- Use the [issue tracker](https://github.com/qasimerror404/flutter_core/issues)
 - Check if the issue already exists
 - Provide detailed reproduction steps
 - Include Flutter/Dart versions
 
 ### 2. 💡 Suggest Features
 Have ideas for improvements?
-- Open a [discussion](https://github.com/yourusername/flutter_core/discussions)
+- Open a [discussion](https://github.com/qasimerror404/flutter_core/discussions)
 - Explain the use case
 - Describe the expected behavior
 - Consider backward compatibility
@@ -237,7 +237,7 @@ Before submitting, ensure:
 ## 💬 Communication
 
 ### Ask Questions
-- Open a [discussion](https://github.com/yourusername/flutter_core/discussions)
+- Open a [discussion](https://github.com/qasimerror404/flutter_core/discussions)
 - Comment on related issues
 - Join our community chat (if available)
 
@@ -307,9 +307,9 @@ Every contribution, no matter how small, makes a difference. Thank you for being
 
 <div align="center">
 
-**Questions?** Open a [discussion](https://github.com/yourusername/flutter_core/discussions)
+**Questions?** Open a [discussion](https://github.com/qasimerror404/flutter_core/discussions)
 
-**Found a bug?** Create an [issue](https://github.com/yourusername/flutter_core/issues)
+**Found a bug?** Create an [issue](https://github.com/qasimerror404/flutter_core/issues)
 
 **Want to chat?** [Join our community](#)
 

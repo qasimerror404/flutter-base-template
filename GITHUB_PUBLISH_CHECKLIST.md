@@ -11,7 +11,7 @@ Complete these steps before publishing your Flutter Core Template to GitHub.
   - [ ] Replace `@qasimabbas` GitHub username (if different)
   - [ ] Replace LinkedIn URL
   - [ ] Replace Twitter handle
-  - [ ] Replace repository URLs: `yourusername/flutter_core`
+  - [ ] Replace repository URLs: `qasimerror404/flutter_core`
 
 - [ ] Update `LICENSE` file:
   - [ ] Verify copyright year (2024)

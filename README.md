@@ -819,8 +819,8 @@ If this template helped you, please consider:
 - 📚 [Full Documentation](docs/README.md)
 - 🚀 [Quick Start Guide](QUICKSTART.md)
 - 🔧 [Setup Guide](SETUP_GUIDE.md)
-- 🐛 [Issue Tracker](https://github.com/yourusername/flutter_core/issues)
-- 💡 [Feature Requests](https://github.com/yourusername/flutter_core/discussions)
+- 🐛 [Issue Tracker](https://github.com/qasimerror404/flutter_core/issues)
+- 💡 [Feature Requests](https://github.com/qasimerror404/flutter_core/discussions)
 
 ---
 
@@ -836,7 +836,7 @@ Made with ❤️ using Flutter • Designed for 🚀 Performance • Built for �
 
 **Star ⭐ this repo if you find it useful!**
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/flutter_core&type=Date)](https://star-history.com/#yourusername/flutter_core&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=qasimerror404/flutter_core&type=Date)](https://star-history.com/#qasimerror404/flutter_core&Date)
 
 </div>
 

@@ -202,12 +202,12 @@ This is the first stable release. No migration needed!
 
 Have suggestions for new features? Found a bug? 
 
-- 🐛 [Report bugs](https://github.com/yourusername/flutter_core/issues)
-- 💡 [Request features](https://github.com/yourusername/flutter_core/discussions)
-- ⭐ [Star the repo](https://github.com/yourusername/flutter_core) if you like it!
+- 🐛 [Report bugs](https://github.com/qasimerror404/flutter_core/issues)
+- 💡 [Request features](https://github.com/qasimerror404/flutter_core/discussions)
+- ⭐ [Star the repo](https://github.com/qasimerror404/flutter_core) if you like it!
 
 ---
 
-**[Unreleased]**: https://github.com/yourusername/flutter_core/compare/v1.0.0...HEAD
-**[1.0.0]**: https://github.com/yourusername/flutter_core/releases/tag/v1.0.0
+**[Unreleased]**: https://github.com/qasimerror404/flutter_core/compare/v1.0.0...HEAD
+**[1.0.0]**: https://github.com/qasimerror404/flutter_core/releases/tag/v1.0.0
 
