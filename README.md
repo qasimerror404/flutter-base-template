@@ -786,7 +786,7 @@ Building beautiful, scalable mobile applications with Flutter.
 
 - 💼 Available for Flutter consulting and development
 - 📧 Email: [qasimerror404@gmail.com](mailto:your.email@example.com)
-- 💻 GitHub: [@qasimabbas](https://github.com/qasimabbas)
+- 💻 GitHub: [@qasimerror404](https://github.com/qasimerror404)
 - 🔗 LinkedIn: [linkedin.com/in/qasim-abbas-598494252](https://linkedin.com/in/qasim-abbas-598494252)
 
 ---
