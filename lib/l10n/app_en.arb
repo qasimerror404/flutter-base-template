@@ -1,0 +1,94 @@
+{
+  "@@locale": "en",
+  "appName": "Flutter Core",
+  "welcome": "Welcome",
+  "home": "Home",
+  "products": "Products",
+  "favorites": "Favorites",
+  "profile": "Profile",
+  "settings": "Settings",
+  "theme": "Theme",
+  "language": "Language",
+  "light": "Light",
+  "dark": "Dark",
+  "system": "System",
+  "english": "English",
+  "arabic": "Arabic",
+  "version": "Version",
+  "save": "Save",
+  "cancel": "Cancel",
+  "confirm": "Confirm",
+  "retry": "Retry",
+  "search": "Search",
+  "noInternetConnection": "No Internet Connection",
+  "addProduct": "Add Product",
+  "editProduct": "Edit Product",
+  "deleteProduct": "Delete Product",
+  "deleteProductConfirmation": "Are you sure you want to delete this product?",
+  "productName": "Product Name",
+  "productDescription": "Product Description",
+  "price": "Price",
+  "productAdded": "Product Added",
+  "productUpdated": "Product Updated",
+  "productDeleted": "Product Deleted",
+  "noProducts": "No Products",
+  "noProductsDescription": "No products found. Add a new product to get started.",
+  "noFavorites": "No Favorites",
+  "noFavoritesDescription": "You haven't added any favorites yet.",
+  "biometricAuthentication": "Biometric Authentication",
+  "fieldRequired": "This field is required",
+  "isRequired": "is required",
+  "invalidEmail": "Enter a valid email address",
+  "invalidPhone": "Enter a valid phone number",
+  "invalidUrl": "Enter a valid URL",
+  "minLengthError": "Must be at least {length} characters",
+  "@minLengthError": {
+    "placeholders": {
+      "length": {
+        "type": "int"
+      }
+    }
+  },
+  "maxLengthError": "Must not exceed {length} characters",
+  "@maxLengthError": {
+    "placeholders": {
+      "length": {
+        "type": "int"
+      }
+    }
+  },
+  "passwordMinLength": "Password must be at least 8 characters",
+  "passwordUppercase": "Password must contain at least one uppercase letter",
+  "passwordLowercase": "Password must contain at least one lowercase letter",
+  "passwordDigit": "Password must contain at least one digit",
+  "passwordSpecialChar": "Password must contain at least one special character",
+  "passwordsDoNotMatch": "Passwords do not match",
+  "invalidNumber": "Enter a valid number",
+  "minValueError": "Value must be at least {min}",
+  "@minValueError": {
+    "placeholders": {
+      "min": {
+        "type": "num"
+      }
+    }
+  },
+  "maxValueError": "Value must not exceed {max}",
+  "@maxValueError": {
+    "placeholders": {
+      "max": {
+        "type": "num"
+      }
+    }
+  },
+  "rangeError": "Value must be between {min} and {max}",
+  "@rangeError": {
+    "placeholders": {
+      "min": {
+        "type": "num"
+      },
+      "max": {
+        "type": "num"
+      }
+    }
+  }
+}

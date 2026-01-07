@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "title": "Product 1",
+    "description": "This is a sample product description",
+    "price": 29.99,
+    "image": "https://via.placeholder.com/300",
+    "category": "Electronics",
+    "rating": 4.5
+  },
+  {
+    "id": "2",
+    "title": "Product 2",
+    "description": "Another sample product with more details",
+    "price": 49.99,
+    "image": "https://via.placeholder.com/300",
+    "category": "Clothing",
+    "rating": 4.0
+  },
+  {
+    "id": "3",
+    "title": "Product 3",
+    "description": "Yet another great product",
+    "price": 19.99,
+    "image": "https://via.placeholder.com/300",
+    "category": "Books",
+    "rating": 4.8
+  }
+]
+

@@ -1,0 +1,94 @@
+{
+  "@@locale": "ar",
+  "appName": "فلاتر كور",
+  "welcome": "مرحباً",
+  "home": "الرئيسية",
+  "products": "المنتجات",
+  "favorites": "المفضلة",
+  "profile": "الملف الشخصي",
+  "settings": "الإعدادات",
+  "theme": "المظهر",
+  "language": "اللغة",
+  "light": "فاتح",
+  "dark": "داكن",
+  "system": "النظام",
+  "english": "الإنجليزية",
+  "arabic": "العربية",
+  "version": "الإصدار",
+  "save": "حفظ",
+  "cancel": "إلغاء",
+  "confirm": "تأكيد",
+  "retry": "إعادة المحاولة",
+  "search": "بحث",
+  "noInternetConnection": "لا يوجد اتصال بالإنترنت",
+  "addProduct": "إضافة منتج",
+  "editProduct": "تعديل المنتج",
+  "deleteProduct": "حذف المنتج",
+  "deleteProductConfirmation": "هل أنت متأكد من حذف هذا المنتج؟",
+  "productName": "اسم المنتج",
+  "productDescription": "وصف المنتج",
+  "price": "السعر",
+  "productAdded": "تم إضافة المنتج",
+  "productUpdated": "تم تحديث المنتج",
+  "productDeleted": "تم حذف المنتج",
+  "noProducts": "لا توجد منتجات",
+  "noProductsDescription": "لم يتم العثور على منتجات. أضف منتجاً جديداً للبدء.",
+  "noFavorites": "لا توجد مفضلات",
+  "noFavoritesDescription": "لم تقم بإضافة أي مفضلات بعد.",
+  "biometricAuthentication": "المصادقة البيومترية",
+  "fieldRequired": "هذا الحقل مطلوب",
+  "isRequired": "مطلوب",
+  "invalidEmail": "الرجاء إدخال عنوان بريد إلكتروني صحيح",
+  "invalidPhone": "الرجاء إدخال رقم هاتف صحيح",
+  "invalidUrl": "الرجاء إدخال رابط صحيح",
+  "minLengthError": "يجب أن يكون {length} أحرف على الأقل",
+  "@minLengthError": {
+    "placeholders": {
+      "length": {
+        "type": "int"
+      }
+    }
+  },
+  "maxLengthError": "يجب ألا يتجاوز {length} حرفاً",
+  "@maxLengthError": {
+    "placeholders": {
+      "length": {
+        "type": "int"
+      }
+    }
+  },
+  "passwordMinLength": "يجب أن تكون كلمة المرور 8 أحرف على الأقل",
+  "passwordUppercase": "يجب أن تحتوي كلمة المرور على حرف كبير واحد على الأقل",
+  "passwordLowercase": "يجب أن تحتوي كلمة المرور على حرف صغير واحد على الأقل",
+  "passwordDigit": "يجب أن تحتوي كلمة المرور على رقم واحد على الأقل",
+  "passwordSpecialChar": "يجب أن تحتوي كلمة المرور على رمز خاص واحد على الأقل",
+  "passwordsDoNotMatch": "كلمات المرور غير متطابقة",
+  "invalidNumber": "الرجاء إدخال رقم صحيح",
+  "minValueError": "القيمة يجب أن تكون {min} على الأقل",
+  "@minValueError": {
+    "placeholders": {
+      "min": {
+        "type": "num"
+      }
+    }
+  },
+  "maxValueError": "القيمة يجب ألا تتجاوز {max}",
+  "@maxValueError": {
+    "placeholders": {
+      "max": {
+        "type": "num"
+      }
+    }
+  },
+  "rangeError": "القيمة يجب أن تكون بين {min} و {max}",
+  "@rangeError": {
+    "placeholders": {
+      "min": {
+        "type": "num"
+      },
+      "max": {
+        "type": "num"
+      }
+    }
+  }
+}

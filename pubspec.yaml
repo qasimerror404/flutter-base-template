@@ -1,0 +1,85 @@
+name: flutter_core
+description: "A production-ready Flutter template with clean architecture."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.11.0-162.0.dev
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+
+  # State Management
+  flutter_riverpod: ^2.6.1
+  
+  # Routing
+  go_router: ^14.6.2
+  
+  # Networking
+  dio: ^5.7.0
+  connectivity_plus: ^6.1.1
+  
+  # Local Storage
+  isar: ^3.1.0+1
+  isar_flutter_libs: ^3.1.0+1
+  shared_preferences: ^2.3.3
+  flutter_secure_storage: ^9.2.2
+  path_provider: ^2.1.5
+  
+  # Localization
+  intl: ^0.20.2
+  
+  # UI/UX
+  flutter_animate: ^4.5.0
+  cached_network_image: ^3.4.1
+  shimmer: ^3.0.0
+  flutter_svg: ^2.0.17
+  
+  # Utilities
+  equatable: ^2.0.7
+  dartz: ^0.10.1
+  logger: ^2.5.0
+  
+  # Features
+  local_auth: ^2.3.0
+  image_picker: ^1.1.2
+  image: ^4.2.0
+  permission_handler: ^11.3.1
+  
+  # Icons
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  
+  # Code Generation (minimal usage)
+  build_runner: ^2.4.13
+  isar_generator: ^3.1.0+1
+
+flutter:
+  uses-material-design: true
+  generate: true
+
+  assets:
+    - assets/images/
+    - assets/icons/
+    - assets/mock/
+    - assets/illustrations/
+
+  fonts:
+    - family: CustomFont
+      fonts:
+        - asset: assets/fonts/custom_font_regular.ttf
+          weight: 400
+        - asset: assets/fonts/custom_font_medium.ttf
+          weight: 500
+        - asset: assets/fonts/custom_font_semibold.ttf
+          weight: 600
+        - asset: assets/fonts/custom_font_bold.ttf
+          weight: 700
