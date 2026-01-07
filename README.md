@@ -785,10 +785,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Building beautiful, scalable mobile applications with Flutter.
 
 - 💼 Available for Flutter consulting and development
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
+- 📧 Email: [qasimerror404@gmail.com](mailto:your.email@example.com)
 - 💻 GitHub: [@qasimabbas](https://github.com/qasimabbas)
-- 🔗 LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
-- 🐦 Twitter: [@your_twitter](https://twitter.com/your_twitter)
+- 🔗 LinkedIn: [linkedin.com/in/qasim-abbas-598494252](https://linkedin.com/in/qasim-abbas-598494252)
 
 ---
 
